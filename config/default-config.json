@@ -1,0 +1,13 @@
+{
+    "cameras": [
+        [
+            "top",
+            "bot"
+        ]
+    ],
+    "defaultBlurThreshold": 7.5,
+    "patternHeight": 15,
+    "patternWidth": 10,
+    "squareSize": 0.75,
+    "validFramesCountThreshold": 15
+}

@@ -1,0 +1,7 @@
+name: HMC Conversion Tool
+description: A tool used to convert HMC facial capture data for ingestion into Unreal.
+version: 1.0.0
+required:
+    - [metahuman, "5.4.0"]
+    - [unreal, "5.4.2"]
+    - [ffmpeg, "7.0.1"]
